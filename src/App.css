@@ -1,0 +1,40 @@
+#root {
+  background-color: #6495ed;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.App {
+  background-color: white;
+  padding: 20px;
+}
+
+.username-textbox {
+  border: none;
+  transition: ease-in-out all 0.4s;
+}
+
+.username-textbox.red {
+  border-bottom: 2px solid #cb4335;
+}
+
+.username-textbox.blue {
+  border-bottom: 2px solid #005cfe;
+}
+
+.username-textbox.gray {
+  border-bottom: 2px solid #cdcdcd;
+}
+
+.username-textbox:focus {
+  outline-width: 0;
+}
+
+.status {
+  font-size: 14px;
+  text-align: center;
+  margin-top: 10px;
+}
