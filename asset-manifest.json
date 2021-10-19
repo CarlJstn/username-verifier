@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/username-verifier/static/css/main.4d39d94c.chunk.css",
+    "main.js": "/username-verifier/static/js/main.02bdc62f.chunk.js",
+    "main.js.map": "/username-verifier/static/js/main.02bdc62f.chunk.js.map",
+    "runtime-main.js": "/username-verifier/static/js/runtime-main.5e01b19a.js",
+    "runtime-main.js.map": "/username-verifier/static/js/runtime-main.5e01b19a.js.map",
+    "static/js/2.e4881053.chunk.js": "/username-verifier/static/js/2.e4881053.chunk.js",
+    "static/js/2.e4881053.chunk.js.map": "/username-verifier/static/js/2.e4881053.chunk.js.map",
+    "static/js/3.38d2b090.chunk.js": "/username-verifier/static/js/3.38d2b090.chunk.js",
+    "static/js/3.38d2b090.chunk.js.map": "/username-verifier/static/js/3.38d2b090.chunk.js.map",
+    "index.html": "/username-verifier/index.html",
+    "static/css/main.4d39d94c.chunk.css.map": "/username-verifier/static/css/main.4d39d94c.chunk.css.map",
+    "static/js/2.e4881053.chunk.js.LICENSE.txt": "/username-verifier/static/js/2.e4881053.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e01b19a.js",
+    "static/js/2.e4881053.chunk.js",
+    "static/css/main.4d39d94c.chunk.css",
+    "static/js/main.02bdc62f.chunk.js"
+  ]
+}
